@@ -17,10 +17,8 @@ function App() {
         >
           Learn React
         </a>
+        <p>This is my first try and is first task from "Forage virtual internship".</p>
       </header>
-      <p>
-        This is my first try on first task that I take from Forage Virtual Internship.
-      </p>
     </div>
   );
 }
